@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "nuxt.isNuxtApp": true,
+  "liveServer.settings.port": 5501
+  // "eslint.validate": ["javascript"]
+}
